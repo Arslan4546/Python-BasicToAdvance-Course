@@ -1,0 +1,11 @@
+name = "I Love Dart"
+result1 = name.capitalize()
+print(result1)
+result2 = name.replace("Dart", "Python")
+print(result2)
+result3 = name.endswith("Dart")
+print(result3)
+result4 = name.find("a")
+print(result4)
+result5 = name.count("a")
+print(result5)
