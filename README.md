@@ -1,4 +1,4 @@
-# Python Fundamentals to Advanced: Comprehensive Course Repository 📚🐍
+# Python Fundamentals to Advanced: Comprehensive Course Repository 🐍
 Welcome to the Python Fundamentals to Advanced repository! This repository covers all the essential concepts and advanced techniques you need to master Python programming, whether you're a beginner or looking to deepen your expertise. The course is organized to guide you step-by-step from foundational concepts to complex functionalities, making it ideal for self-study, reference, or as a complete Python resource.
 
 ## 🛠️ What's Inside
