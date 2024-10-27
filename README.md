@@ -36,7 +36,6 @@ Build Projects: Use the project examples as inspiration or templates for your ow
 ## Contact Me
 
 LinkedIn:https://www.linkedin.com/in/arslan4546/
-GitHub:https://github.com/Arslan4546
 Facebook:https://www.Facebook.com/Arslan4546
 Instagram: https://www.instagram.com/arslantariq4546/
 
