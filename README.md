@@ -35,16 +35,15 @@ This course aims to make Python accessible to all, with a gradual and comprehens
 3. **Practice Exercises**: Each section has exercises to help you test your understanding.
 4. **Build Projects**: Use the project examples as inspiration or templates for your own applications.
 
-## Contact Me
-
-### LinkedIn
-[Arslan's LinkedIn Profile](https://www.linkedin.com/in/arslan4546/)
-
-### Facebook
-[Arslan's Facebook Profile](https://www.facebook.com/Arslan4546)
-### Instagram
-[Arslan's Instagram Profile](https://www.instagram.com/arslantariq4546/)
-
 ---
 
+## 📬 Contact Me
+
+- **LinkedIn**: [Arslan Tariq](https://www.linkedin.com/in/arslan4546/)
+- **Instagram**: [Arslan Tariq](https://www.instagram.com/arslantariq4546/)
+-  **Threads**: [Arslan Tariq](https://www.threads.net/@arslantariq4546)
+- **Facebook**: [Arslan Tariq](https://www.facebook.com/Arslan4546)
+- **Email**: [arslantariq4546@gmail.com](mailto:arslantariq4546@gmail.com)
+
+---
 Thank you for exploring this Python repository! Feel free to connect with me on social media, and happy coding!
